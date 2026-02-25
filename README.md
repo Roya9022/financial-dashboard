@@ -30,7 +30,7 @@ You need to have **Node.js** and **npm** installed.
     ```
 4.  **Run the development server:**
     ```bash
-    npm run dev
+    yarn dev
     ```
 5.  Open your browser to: **http://localhost:5173**
 
